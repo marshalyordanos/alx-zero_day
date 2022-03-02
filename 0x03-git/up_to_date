@@ -1,2 +1,1 @@
-
-there is a content
+#!/bin/bash echo "git pull"
